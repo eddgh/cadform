@@ -194,6 +194,9 @@ body {
         max-height: 10rem;
         padding-right: 5rem;
     }
+    .input-box input {
+        margin: 0.6rem 1px;
+    }
 
     .gender-inputs {
         margin-top: 2rem;        
